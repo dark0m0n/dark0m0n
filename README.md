@@ -74,10 +74,11 @@ A task-management learning project created while developing my C# and ASP.NET sk
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dark0m0n&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark0m0n&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dark0m0n&theme=tokyonight" width="95%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dark0m0n&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" width="95%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dark0m0n&theme=tokyonight" width="45%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dark0m0n&theme=tokyonight" width="45%" />
 
 </div>
 
